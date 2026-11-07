@@ -15,5 +15,8 @@ Aplicação em Python desenvolvida para demonstrar organização de código modu
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/DyAndrewS/gerador-de-citacoes.git](https://github.com/DyAndrewS/gerador-de-citacoes.git)
+   git clone https://github.com/DyAndrewS/gerador-de-citacoes.git
    cd gerador-de-citacoes
+
+   ## 👨‍💻 Autor
+Desenvolvido por Dylan Melo. Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/dyandrew).
